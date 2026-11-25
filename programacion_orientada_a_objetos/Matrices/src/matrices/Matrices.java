@@ -18,7 +18,7 @@ public class Matrices {
     // preguntar por el numero de filas y columnas
     int nFilas = scan.nextInt();
     int nColumnas = scan.nextInt();
-    // nombrar matriz
+    // nombrar matriz de
     int[][] mat = new int[nFilas][nColumnas];
     // cambiar contenido, para eso nombremos j
     int k = 0;
