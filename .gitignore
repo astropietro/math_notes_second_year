@@ -1,0 +1,21 @@
+﻿# NetBeans y Java compilado
+**/build/
+**/dist/
+**/target/
+**/nbproject/private/
+*.class
+*.jar
+*.war
+
+# LaTeX (archivos auxiliares de compilación, manteniendo .tex y .pdf)
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
